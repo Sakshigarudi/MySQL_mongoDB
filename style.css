@@ -1,0 +1,39 @@
+table,
+thead,
+tr,
+th,
+td {
+  border: 1px solid rgb(243, 237, 237);
+  text-align: center;
+}
+table {
+  margin: 250px;
+  min-width: 300px;
+  text-align: center;
+  
+  box-shadow: 50px 10px 10px rgba(0, 0, 0, 0.15);
+}
+th.title{
+  background-color: white;
+
+  text-align: center;
+}
+
+
+.para1 {
+  background-color: rgb(82, 146, 9);
+
+}
+
+.para2 {
+  background-color: orange;
+}
+tr {
+  background-color: white;
+  color: black;
+  text-align: center;
+}
+th,
+td {
+  padding: 12px 15px;
+}
